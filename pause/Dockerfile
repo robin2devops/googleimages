@@ -1,0 +1,2 @@
+FROM k8s.gcr.io/pause-amd64:3.1
+MAINTAINER 13910128582@139.com
