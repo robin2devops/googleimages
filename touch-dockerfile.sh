@@ -56,7 +56,7 @@ MAINTAINER 13910128582@139.com
 EOF
 cd ../dashboard/
 cat <<EOF > Dockerfile
-FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.1
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0
 MAINTAINER 13910128582@139.com
 EOF
 cd ../storage-provisioner/
